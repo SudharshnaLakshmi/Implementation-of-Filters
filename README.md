@@ -114,22 +114,28 @@ plt.axis("off")
 ## OUTPUT:
 ### 1. Smoothing Filters
 i) Using Averaging Filter
+
 ![](2.png)
 
 ii) Using Weighted Averaging Filter
+
 ![](3.png)
 
 iii) Using Gaussian Filter
+
 ![](4.png)
 
 iv) Using Median Filter
+
 ![](5.png)
 
 ### 2. Sharpening Filters
 i) Using Laplacian Kernal
+
 ![](6.png)
 
 ii) Using Laplacian Operator
+
 ![](7.png)
 
 ## Result:
